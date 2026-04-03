@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arnisto/my-leetcode/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/arnisto/my-leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/arnisto/my-leetcode/tree/master/0088-merge-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/arnisto/my-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/arnisto/my-leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/arnisto/my-leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/arnisto/my-leetcode/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/arnisto/my-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
