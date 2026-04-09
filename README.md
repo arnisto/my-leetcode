@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/arnisto/my-leetcode/tree/master/0013-roman-to-integer) |
 | [0146-lru-cache](https://github.com/arnisto/my-leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/arnisto/my-leetcode/tree/master/0460-lfu-cache) |
 | [0645-set-mismatch](https://github.com/arnisto/my-leetcode/tree/master/0645-set-mismatch) |
 ## Math
 |  |
@@ -61,12 +62,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/arnisto/my-leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/arnisto/my-leetcode/tree/master/0460-lfu-cache) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/arnisto/my-leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/arnisto/my-leetcode/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/arnisto/my-leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/arnisto/my-leetcode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
