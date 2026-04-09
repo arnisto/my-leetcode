@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/arnisto/my-leetcode/tree/master/0013-roman-to-integer) |
+| [0146-lru-cache](https://github.com/arnisto/my-leetcode/tree/master/0146-lru-cache) |
 | [0645-set-mismatch](https://github.com/arnisto/my-leetcode/tree/master/0645-set-mismatch) |
 ## Math
 |  |
@@ -54,4 +55,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/arnisto/my-leetcode/tree/master/0645-set-mismatch) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/arnisto/my-leetcode/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/arnisto/my-leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/arnisto/my-leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
