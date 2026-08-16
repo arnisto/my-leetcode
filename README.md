@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/arnisto/my-leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arnisto/my-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/arnisto/my-leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/arnisto/my-leetcode/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arnisto/my-leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/arnisto/my-leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/arnisto/my-leetcode/tree/master/0169-majority-element) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/arnisto/my-leetcode/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/arnisto/my-leetcode/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
