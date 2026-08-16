@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/arnisto/my-leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/arnisto/my-leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/arnisto/my-leetcode/tree/master/0069-sqrtx) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arnisto/my-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/arnisto/my-leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/arnisto/my-leetcode/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/arnisto/my-leetcode/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arnisto/my-leetcode/tree/master/0020-valid-parentheses) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/arnisto/my-leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
