@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/arnisto/my-leetcode/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arnisto/my-leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/arnisto/my-leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/arnisto/my-leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/arnisto/my-leetcode/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/arnisto/my-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/arnisto/my-leetcode/tree/master/0645-set-mismatch) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/arnisto/my-leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/arnisto/my-leetcode/tree/master/0118-pascals-triangle) |
 ## Memoization
 |  |
 | ------- |
