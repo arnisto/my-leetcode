@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/arnisto/my-leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/arnisto/my-leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/arnisto/my-leetcode/tree/master/0168-excel-sheet-column-title) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/arnisto/my-leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/arnisto/my-leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Array
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/arnisto/my-leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/arnisto/my-leetcode/tree/master/0191-number-of-1-bits) |
 | [0645-set-mismatch](https://github.com/arnisto/my-leetcode/tree/master/0645-set-mismatch) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/arnisto/my-leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Linked List
 |  |
 | ------- |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/arnisto/my-leetcode/tree/master/2574-left-and-right-sum-differences) |
+## Backtracking
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/arnisto/my-leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
