@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/arnisto/my-leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/arnisto/my-leetcode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/arnisto/my-leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/arnisto/my-leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2574-left-and-right-sum-differences](https://github.com/arnisto/my-leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Trie
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/arnisto/my-leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/arnisto/my-leetcode/tree/master/0191-number-of-1-bits) |
 | [0645-set-mismatch](https://github.com/arnisto/my-leetcode/tree/master/0645-set-mismatch) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/arnisto/my-leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/arnisto/my-leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Linked List
 |  |
