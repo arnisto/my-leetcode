@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/arnisto/my-leetcode/tree/master/0169-majority-element) |
 | [0460-lfu-cache](https://github.com/arnisto/my-leetcode/tree/master/0460-lfu-cache) |
 | [0645-set-mismatch](https://github.com/arnisto/my-leetcode/tree/master/0645-set-mismatch) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/arnisto/my-leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/arnisto/my-leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/arnisto/my-leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/arnisto/my-leetcode/tree/master/0168-excel-sheet-column-title) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/arnisto/my-leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Array
 |  |
 | ------- |
