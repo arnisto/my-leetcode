@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/arnisto/my-leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/arnisto/my-leetcode/tree/master/0168-excel-sheet-column-title) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arnisto/my-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2396-strictly-palindromic-number](https://github.com/arnisto/my-leetcode/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/arnisto/my-leetcode/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/arnisto/my-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/arnisto/my-leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2396-strictly-palindromic-number](https://github.com/arnisto/my-leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/arnisto/my-leetcode/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/arnisto/my-leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/arnisto/my-leetcode/tree/master/0183-customers-who-never-order) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/arnisto/my-leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
