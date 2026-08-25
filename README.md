@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/arnisto/my-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/arnisto/my-leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arnisto/my-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/arnisto/my-leetcode/tree/master/0027-remove-element) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/arnisto/my-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/arnisto/my-leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/arnisto/my-leetcode/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/arnisto/my-leetcode/tree/master/0098-validate-binary-search-tree) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/arnisto/my-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/arnisto/my-leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/arnisto/my-leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/arnisto/my-leetcode/tree/master/0191-number-of-1-bits) |
